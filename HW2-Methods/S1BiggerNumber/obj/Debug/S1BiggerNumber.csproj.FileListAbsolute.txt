@@ -1,0 +1,6 @@
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW2-Methods\S1BiggerNumber\bin\Debug\S1BiggerNumber.exe.config
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW2-Methods\S1BiggerNumber\bin\Debug\S1BiggerNumber.exe
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW2-Methods\S1BiggerNumber\bin\Debug\S1BiggerNumber.pdb
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW2-Methods\S1BiggerNumber\obj\Debug\S1BiggerNumber.csprojResolveAssemblyReference.cache
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW2-Methods\S1BiggerNumber\obj\Debug\S1BiggerNumber.exe
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW2-Methods\S1BiggerNumber\obj\Debug\S1BiggerNumber.pdb

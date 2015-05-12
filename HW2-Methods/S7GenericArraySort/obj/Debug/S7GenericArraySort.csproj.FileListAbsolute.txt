@@ -1,0 +1,6 @@
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW2-Methods\S7GenericArraySort\bin\Debug\S7GenericArraySort.exe.config
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW2-Methods\S7GenericArraySort\bin\Debug\S7GenericArraySort.exe
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW2-Methods\S7GenericArraySort\bin\Debug\S7GenericArraySort.pdb
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW2-Methods\S7GenericArraySort\obj\Debug\S7GenericArraySort.csprojResolveAssemblyReference.cache
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW2-Methods\S7GenericArraySort\obj\Debug\S7GenericArraySort.exe
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW2-Methods\S7GenericArraySort\obj\Debug\S7GenericArraySort.pdb

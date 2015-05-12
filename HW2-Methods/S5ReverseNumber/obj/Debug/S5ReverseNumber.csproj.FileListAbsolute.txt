@@ -1,0 +1,6 @@
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW2-Methods\S5ReverseNumber\bin\Debug\S5ReverseNumber.exe.config
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW2-Methods\S5ReverseNumber\obj\Debug\S5ReverseNumber.csprojResolveAssemblyReference.cache
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW2-Methods\S5ReverseNumber\bin\Debug\S5ReverseNumber.exe
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW2-Methods\S5ReverseNumber\bin\Debug\S5ReverseNumber.pdb
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW2-Methods\S5ReverseNumber\obj\Debug\S5ReverseNumber.exe
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW2-Methods\S5ReverseNumber\obj\Debug\S5ReverseNumber.pdb

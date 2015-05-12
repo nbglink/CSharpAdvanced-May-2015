@@ -1,0 +1,6 @@
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW2-Methods\S2LastDigitOfNumber\bin\Debug\S2LastDigitOfNumber.exe.config
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW2-Methods\S2LastDigitOfNumber\obj\Debug\S2LastDigitOfNumber.csprojResolveAssemblyReference.cache
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW2-Methods\S2LastDigitOfNumber\bin\Debug\S2LastDigitOfNumber.exe
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW2-Methods\S2LastDigitOfNumber\bin\Debug\S2LastDigitOfNumber.pdb
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW2-Methods\S2LastDigitOfNumber\obj\Debug\S2LastDigitOfNumber.exe
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW2-Methods\S2LastDigitOfNumber\obj\Debug\S2LastDigitOfNumber.pdb

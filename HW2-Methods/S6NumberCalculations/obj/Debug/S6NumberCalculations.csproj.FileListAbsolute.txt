@@ -1,0 +1,6 @@
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW2-Methods\S6NumberCalculations\bin\Debug\S6NumberCalculations.exe.config
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW2-Methods\S6NumberCalculations\bin\Debug\S6NumberCalculations.exe
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW2-Methods\S6NumberCalculations\bin\Debug\S6NumberCalculations.pdb
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW2-Methods\S6NumberCalculations\obj\Debug\S6NumberCalculations.csprojResolveAssemblyReference.cache
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW2-Methods\S6NumberCalculations\obj\Debug\S6NumberCalculations.exe
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW2-Methods\S6NumberCalculations\obj\Debug\S6NumberCalculations.pdb
