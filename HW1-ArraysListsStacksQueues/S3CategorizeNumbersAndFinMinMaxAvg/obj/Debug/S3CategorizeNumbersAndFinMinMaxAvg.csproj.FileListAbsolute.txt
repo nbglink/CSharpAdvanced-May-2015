@@ -1,0 +1,6 @@
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW1-ArraysListsStacksQueues\S3CategorizeNumbersAndFinMinMaxAvg\bin\Debug\S3CategorizeNumbersAndFinMinMaxAvg.exe.config
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW1-ArraysListsStacksQueues\S3CategorizeNumbersAndFinMinMaxAvg\bin\Debug\S3CategorizeNumbersAndFinMinMaxAvg.exe
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW1-ArraysListsStacksQueues\S3CategorizeNumbersAndFinMinMaxAvg\bin\Debug\S3CategorizeNumbersAndFinMinMaxAvg.pdb
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW1-ArraysListsStacksQueues\S3CategorizeNumbersAndFinMinMaxAvg\obj\Debug\S3CategorizeNumbersAndFinMinMaxAvg.exe
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW1-ArraysListsStacksQueues\S3CategorizeNumbersAndFinMinMaxAvg\obj\Debug\S3CategorizeNumbersAndFinMinMaxAvg.pdb
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW1-ArraysListsStacksQueues\S3CategorizeNumbersAndFinMinMaxAvg\obj\Debug\S3CategorizeNumbersAndFinMinMaxAvg.csprojResolveAssemblyReference.cache

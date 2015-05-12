@@ -1,0 +1,5 @@
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW1-ArraysListsStacksQueues\S6SubsetSums\bin\Debug\S6SubsetSums.exe.config
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW1-ArraysListsStacksQueues\S6SubsetSums\bin\Debug\S6SubsetSums.exe
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW1-ArraysListsStacksQueues\S6SubsetSums\bin\Debug\S6SubsetSums.pdb
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW1-ArraysListsStacksQueues\S6SubsetSums\obj\Debug\S6SubsetSums.exe
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW1-ArraysListsStacksQueues\S6SubsetSums\obj\Debug\S6SubsetSums.pdb

@@ -1,0 +1,6 @@
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW1-ArraysListsStacksQueues\S1SortArrayOfNumbers\bin\Debug\S1SortArrayOfNumbers.exe.config
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW1-ArraysListsStacksQueues\S1SortArrayOfNumbers\obj\Debug\S1SortArrayOfNumbers.csprojResolveAssemblyReference.cache
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW1-ArraysListsStacksQueues\S1SortArrayOfNumbers\bin\Debug\S1SortArrayOfNumbers.exe
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW1-ArraysListsStacksQueues\S1SortArrayOfNumbers\bin\Debug\S1SortArrayOfNumbers.pdb
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW1-ArraysListsStacksQueues\S1SortArrayOfNumbers\obj\Debug\S1SortArrayOfNumbers.exe
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW1-ArraysListsStacksQueues\S1SortArrayOfNumbers\obj\Debug\S1SortArrayOfNumbers.pdb

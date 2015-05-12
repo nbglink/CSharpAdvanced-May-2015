@@ -1,0 +1,5 @@
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW1-ArraysListsStacksQueues\S5LongestIncreasingSequence\bin\Debug\S5LongestIncreasingSequence.exe.config
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW1-ArraysListsStacksQueues\S5LongestIncreasingSequence\bin\Debug\S5LongestIncreasingSequence.exe
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW1-ArraysListsStacksQueues\S5LongestIncreasingSequence\bin\Debug\S5LongestIncreasingSequence.pdb
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW1-ArraysListsStacksQueues\S5LongestIncreasingSequence\obj\Debug\S5LongestIncreasingSequence.exe
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW1-ArraysListsStacksQueues\S5LongestIncreasingSequence\obj\Debug\S5LongestIncreasingSequence.pdb

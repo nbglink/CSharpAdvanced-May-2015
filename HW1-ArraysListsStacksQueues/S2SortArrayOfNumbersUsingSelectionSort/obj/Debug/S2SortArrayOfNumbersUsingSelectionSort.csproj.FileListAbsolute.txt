@@ -1,0 +1,6 @@
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW1-ArraysListsStacksQueues\S2SortArrayOfNumbersUsingSelectionSort\bin\Debug\S2SortArrayOfNumbersUsingSelectionSort.exe.config
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW1-ArraysListsStacksQueues\S2SortArrayOfNumbersUsingSelectionSort\bin\Debug\S2SortArrayOfNumbersUsingSelectionSort.exe
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW1-ArraysListsStacksQueues\S2SortArrayOfNumbersUsingSelectionSort\bin\Debug\S2SortArrayOfNumbersUsingSelectionSort.pdb
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW1-ArraysListsStacksQueues\S2SortArrayOfNumbersUsingSelectionSort\obj\Debug\S2SortArrayOfNumbersUsingSelectionSort.csprojResolveAssemblyReference.cache
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW1-ArraysListsStacksQueues\S2SortArrayOfNumbersUsingSelectionSort\obj\Debug\S2SortArrayOfNumbersUsingSelectionSort.exe
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW1-ArraysListsStacksQueues\S2SortArrayOfNumbersUsingSelectionSort\obj\Debug\S2SortArrayOfNumbersUsingSelectionSort.pdb

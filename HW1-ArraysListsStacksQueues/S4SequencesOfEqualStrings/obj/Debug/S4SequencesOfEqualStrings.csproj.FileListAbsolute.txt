@@ -1,0 +1,5 @@
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW1-ArraysListsStacksQueues\S4SequencesOfEqualStrings\bin\Debug\S4SequencesOfEqualStrings.exe.config
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW1-ArraysListsStacksQueues\S4SequencesOfEqualStrings\bin\Debug\S4SequencesOfEqualStrings.exe
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW1-ArraysListsStacksQueues\S4SequencesOfEqualStrings\bin\Debug\S4SequencesOfEqualStrings.pdb
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW1-ArraysListsStacksQueues\S4SequencesOfEqualStrings\obj\Debug\S4SequencesOfEqualStrings.exe
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW1-ArraysListsStacksQueues\S4SequencesOfEqualStrings\obj\Debug\S4SequencesOfEqualStrings.pdb
