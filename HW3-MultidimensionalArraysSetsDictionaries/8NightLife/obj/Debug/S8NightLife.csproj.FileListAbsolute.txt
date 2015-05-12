@@ -1,0 +1,5 @@
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW3MultidimensionalArraysSetsDictionaries\8NightLife\bin\Debug\8NightLife.exe.config
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW3MultidimensionalArraysSetsDictionaries\8NightLife\bin\Debug\8NightLife.exe
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW3MultidimensionalArraysSetsDictionaries\8NightLife\bin\Debug\8NightLife.pdb
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW3MultidimensionalArraysSetsDictionaries\8NightLife\obj\Debug\8NightLife.exe
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW3MultidimensionalArraysSetsDictionaries\8NightLife\obj\Debug\8NightLife.pdb

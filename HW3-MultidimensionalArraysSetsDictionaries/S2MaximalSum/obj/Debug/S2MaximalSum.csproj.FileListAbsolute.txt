@@ -1,0 +1,5 @@
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW3MultidimensionalArraysSetsDictionaries\S2MaximalSum\bin\Debug\S2MaximalSum.exe.config
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW3MultidimensionalArraysSetsDictionaries\S2MaximalSum\bin\Debug\S2MaximalSum.exe
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW3MultidimensionalArraysSetsDictionaries\S2MaximalSum\bin\Debug\S2MaximalSum.pdb
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW3MultidimensionalArraysSetsDictionaries\S2MaximalSum\obj\Debug\S2MaximalSum.exe
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW3MultidimensionalArraysSetsDictionaries\S2MaximalSum\obj\Debug\S2MaximalSum.pdb
