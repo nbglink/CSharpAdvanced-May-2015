@@ -1,0 +1,5 @@
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW4-StringsAndTextProcessing\S6Palindromes\bin\Debug\S6Palindromes.exe.config
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW4-StringsAndTextProcessing\S6Palindromes\bin\Debug\S6Palindromes.exe
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW4-StringsAndTextProcessing\S6Palindromes\bin\Debug\S6Palindromes.pdb
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW4-StringsAndTextProcessing\S6Palindromes\obj\Debug\S6Palindromes.exe
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW4-StringsAndTextProcessing\S6Palindromes\obj\Debug\S6Palindromes.pdb

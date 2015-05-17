@@ -1,0 +1,6 @@
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW4-StringsAndTextProcessing\S4TextFilter\bin\Debug\S4TextFilter.exe.config
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW4-StringsAndTextProcessing\S4TextFilter\obj\Debug\S4TextFilter.csprojResolveAssemblyReference.cache
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW4-StringsAndTextProcessing\S4TextFilter\bin\Debug\S4TextFilter.exe
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW4-StringsAndTextProcessing\S4TextFilter\bin\Debug\S4TextFilter.pdb
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW4-StringsAndTextProcessing\S4TextFilter\obj\Debug\S4TextFilter.exe
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW4-StringsAndTextProcessing\S4TextFilter\obj\Debug\S4TextFilter.pdb

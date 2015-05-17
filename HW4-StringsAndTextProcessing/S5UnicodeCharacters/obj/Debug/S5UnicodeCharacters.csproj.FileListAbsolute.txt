@@ -1,0 +1,6 @@
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW4-StringsAndTextProcessing\S5UnicodeCharacters\bin\Debug\S5UnicodeCharacters.exe.config
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW4-StringsAndTextProcessing\S5UnicodeCharacters\bin\Debug\S5UnicodeCharacters.exe
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW4-StringsAndTextProcessing\S5UnicodeCharacters\bin\Debug\S5UnicodeCharacters.pdb
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW4-StringsAndTextProcessing\S5UnicodeCharacters\obj\Debug\S5UnicodeCharacters.csprojResolveAssemblyReference.cache
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW4-StringsAndTextProcessing\S5UnicodeCharacters\obj\Debug\S5UnicodeCharacters.exe
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW4-StringsAndTextProcessing\S5UnicodeCharacters\obj\Debug\S5UnicodeCharacters.pdb

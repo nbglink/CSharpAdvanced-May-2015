@@ -1,0 +1,5 @@
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW4-StringsAndTextProcessing\S2StringLength\bin\Debug\S2StringLength.exe.config
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW4-StringsAndTextProcessing\S2StringLength\bin\Debug\S2StringLength.exe
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW4-StringsAndTextProcessing\S2StringLength\bin\Debug\S2StringLength.pdb
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW4-StringsAndTextProcessing\S2StringLength\obj\Debug\S2StringLength.exe
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW4-StringsAndTextProcessing\S2StringLength\obj\Debug\S2StringLength.pdb

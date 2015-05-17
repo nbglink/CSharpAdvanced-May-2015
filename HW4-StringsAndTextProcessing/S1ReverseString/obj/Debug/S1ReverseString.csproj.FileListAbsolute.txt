@@ -1,0 +1,6 @@
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW4-StringsAndTextProcessing\S1ReverseString\bin\Debug\S1ReverseString.exe.config
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW4-StringsAndTextProcessing\S1ReverseString\bin\Debug\S1ReverseString.exe
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW4-StringsAndTextProcessing\S1ReverseString\bin\Debug\S1ReverseString.pdb
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW4-StringsAndTextProcessing\S1ReverseString\obj\Debug\S1ReverseString.csprojResolveAssemblyReference.cache
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW4-StringsAndTextProcessing\S1ReverseString\obj\Debug\S1ReverseString.exe
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW4-StringsAndTextProcessing\S1ReverseString\obj\Debug\S1ReverseString.pdb
