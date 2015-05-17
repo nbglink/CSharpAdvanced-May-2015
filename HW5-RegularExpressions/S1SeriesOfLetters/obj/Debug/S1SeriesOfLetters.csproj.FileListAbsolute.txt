@@ -1,0 +1,6 @@
+c:\users\hristo nestorov\documents\visual studio 2013\Projects\HW5-RegularExpressions\S1SeriesOfLetters\bin\Debug\S1SeriesOfLetters.exe.config
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW5-RegularExpressions\S1SeriesOfLetters\bin\Debug\S1SeriesOfLetters.exe
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW5-RegularExpressions\S1SeriesOfLetters\bin\Debug\S1SeriesOfLetters.pdb
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW5-RegularExpressions\S1SeriesOfLetters\obj\Debug\S1SeriesOfLetters.csprojResolveAssemblyReference.cache
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW5-RegularExpressions\S1SeriesOfLetters\obj\Debug\S1SeriesOfLetters.exe
+C:\Users\Hristo Nestorov\Documents\Visual Studio 2013\Projects\HW5-RegularExpressions\S1SeriesOfLetters\obj\Debug\S1SeriesOfLetters.pdb
